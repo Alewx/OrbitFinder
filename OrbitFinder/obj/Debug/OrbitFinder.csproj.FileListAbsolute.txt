@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\OrbitFinder.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\OrbitFinder.pdb
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\Assembly-CSharp.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\KSPAssets.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\UnityEngine.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\bin\Debug\UnityEngine.UI.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\obj\Debug\OrbitFinder.dll
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\obj\Debug\OrbitFinder.pdb
+C:\Users\Alex\Documents\GitHub\OrbitFinder\OrbitFinder\obj\Debug\OrbitFinder.csprojResolveAssemblyReference.cache

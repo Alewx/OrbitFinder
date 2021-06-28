@@ -4,7 +4,7 @@ namespace OrbitFinder
 {
 	static class Constants
 	{
-		public const string logVersion = "v1.0.0.0 - 1.3.0";
+		public const string logVersion = "v1.0.0.1 - 1.12.0";
 		public const string logPrefix = "[OrbitFinder] ";
 		public const string toolbarIconPath = "OrbitFinder/Textures/ToolbarIcon";
 
